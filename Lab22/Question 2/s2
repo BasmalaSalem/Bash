@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Way 1
+# source ./s1
+# echo "Value of x using source: $x"
+
+echo "Value of x using exported variable: $x"
